@@ -47,9 +47,14 @@ Every task gets ONE tag. Four departments of the business, plus waste:
 
 ## Rules for Claude
 
-1. **When Jason dumps tasks**: Add to `dashboard.md` priorities or backlog. Tag with the right category.
+1. **When Jason dumps tasks**: Add to `dashboard.md` priorities or backlog. Tag with the right category. **When a task is completed, remove it from the priority list entirely — don't strikethrough it.** The daily log is the record of what got done; the prio list should only show what's still open.
 2. **When Jason says "plan my day"**: Talk through the plan using `dashboard.md` priorities and `week-plan.md`. Make sure there's at least 1 SALES or MARKETING task on deck.
-3. **When Jason completes a task**: Update the **entire** `dashboard.md` — log it in the daily log, update the activity chart counts, and update the "Updated" date at the top. Every task completion = full dashboard sync. No partial updates.
+3. **When Jason completes a task OR logs any activity**: Full dashboard sync. Every time. No exceptions. Hit ALL of these:
+   - [ ] Add/update the entry in the daily log
+   - [ ] Recount and update the activity chart numbers for the current week
+   - [ ] Check if any top priority items should be updated/removed
+   - [ ] Update the "Updated" date at the top
+   - **If you only update the log without touching the chart and prios, the dashboard is broken. Do not do partial updates.**
 4. **When Jason says "what did I get done"**: Summarize from `dashboard.md` daily log, show the category breakdown, give the daily score.
 5. **End of day**: Make sure the day is logged in `dashboard.md` daily log with a GSD score. Archive to `daily-logs/YYYY-MM-DD.md`.
 6. **Weekly review**: Every Sunday/Monday, update `dashboard.md` with the new week's priorities, scores, and pipeline. Write weekly summary to `weekly-reports/`.

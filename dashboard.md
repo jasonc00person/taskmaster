@@ -1,6 +1,6 @@
 # **TASKMASTER** ☑️
 
-_Updated: Sunday, April 5, 2026_
+_Updated: Monday, April 13, 2026_
 
 ---
 
@@ -8,12 +8,14 @@ _Updated: Sunday, April 5, 2026_
 
 | # | Task | Category | Deadline |
 |---|------|:--------:|:--------:|
-| 01 | **Higgsfield Brand Deal Video** | 🎬 Marketing | 🔴 Apr 1 |
-| | _$2K brand deal · Film + deliver by Wednesday_ | | |
-| 02 | **Alex Eubank — Build Fresh Creatives Workstation** | 📦 Fulfillment | 🟡 Apr 4 |
-| | _AI creative generation for Fresh supplement brand launch_ | | |
+| 01 | **Build Oliver's Fulfillment System** | 📦 Fulfillment | 🔴 TODAY |
+| | _Must be ready to deliver on tomorrow's call. Highest priority._ | | |
+| 02 | **Transition 1-1 Clients to Group Call Model** | ⚙️ Build | 🔴 Apr 14 |
+| | _Kill the 1-1 bottleneck. Move current clients to group calls. Frees 5-8 hrs/week for sales + content._ | | |
 | 03 | **File 2025 Taxes** | 🏦 Finance | 🔴 Apr 15 |
 | | _Prepped and ready to file — just need to submit_ | | |
+| 04 | **Alex Eubank — Build Fresh Creatives Workstation** | 📦 Fulfillment | 🟡 Apr 4 |
+| | _AI creative generation for Fresh supplement brand launch_ | | |
 
 ---
 
@@ -21,20 +23,45 @@ _Updated: Sunday, April 5, 2026_
 
 - 🏦 Figure out random Discover card charge
 - 👤 Get chair back from Miami — call delivery place to pick up from Kayna
-- 👤 **Call Mom and Dad** — don't let this slip
 
 ---
 
-## **⚡ Activity (Mar 30 – Apr 5)**
+## **⚡ Activity (Apr 13 – Apr 19)**
+
+```
+  Fulfillment  ██░░░░░░░░░░░░░░░░░░░   2
+  Sales        █░░░░░░░░░░░░░░░░░░░░   1
+  Marketing    ░░░░░░░░░░░░░░░░░░░░░   0
+  Finance      ░░░░░░░░░░░░░░░░░░░░░   0
+  Build        ░░░░░░░░░░░░░░░░░░░░░   0
+  Trap         ░░░░░░░░░░░░░░░░░░░░░   0
+```
+
+<details><summary>Prior week (Apr 6 – Apr 12)</summary>
+
+```
+  Fulfillment  █████████████████████  14
+  Marketing    █████████░░░░░░░░░░░░   6
+  Sales        ███░░░░░░░░░░░░░░░░░░   2
+  Trap         ███░░░░░░░░░░░░░░░░░░   2
+  Finance      ░░░░░░░░░░░░░░░░░░░░░   0
+  Build        ░░░░░░░░░░░░░░░░░░░░░   0
+```
+
+</details>
+
+<details><summary>Prior week (Mar 30 – Apr 5)</summary>
 
 ```
   Fulfillment  ████████████████████  14
   Sales        ████░░░░░░░░░░░░░░░░   3
-  Marketing    ████░░░░░░░░░░░░░░░░   3
+  Marketing    █████░░░░░░░░░░░░░░░   4
   Finance      █░░░░░░░░░░░░░░░░░░░   1
-  Build        ░░░░░░░░░░░░░░░░░░░░   0
+  Build        █░░░░░░░░░░░░░░░░░░░   1
   Trap         ░░░░░░░░░░░░░░░░░░░░   0
 ```
+
+</details>
 
 <details><summary>Prior week (Mar 23 – Mar 29)</summary>
 
@@ -54,13 +81,63 @@ _Updated: Sunday, April 5, 2026_
 
 ## **📋 Daily Log**
 
+### Apr 13 (Mon)
+- 💵 **Higgsfield — $2K collected**
+- 📦 Gobb 1-1
+- 📦 Moises 1-1
+
+### Apr 12 (Sun) — GSD: 6/10
+- 🎬 **YouTube video — FINISHED** (edited and done)
+- 🎬 Higgsfield video — prepped and ready to post tomorrow
+- 👤 Laundry
+
+### Apr 11 (Sat) — REST DAY — GSD: 1/10
+- 👤 Recovery day (went out drinking night before, slept most of the day)
+
+### Apr 10 (Fri) — GSD: 5/10
+- ❌ Group call — no one showed up (TRAP — validates need for 1-1→group transition)
+- 📦 Patrick 1-1
+- 🎬 **Higgsfield brand deal video — DONE** (filmed + edited, posting tomorrow AM, finishing YT edit)
+
+### Apr 9 (Thu) — GSD: 5/10
+- 📦 Tyler 1-1 (implementation call)
+- 📦 Tyler 1-1 #2 (Claude Code bug — unplanned)
+- 📦 CA Inner Circle
+- 📦 Ayden 1-1
+- 🎬 Fahim — re-signed with editing agency to scale content output
+- 💵 Book A Call landing page — custom domain + new testimonial + video testimonial
+
+### Apr 8 (Wed) — GSD: 6/10
+- 📦 Oliver onboarding call
+- 🎬 Higgsfield brand deal — filmed intro, nearly done (just needs talking/walkthrough section)
+- 📦 Tyler content system — built and delivered (due Thu morning, done night before)
+
+### Apr 7 (Tue) — GSD: 8/10
+- 💵 **Oliver — CLOSED $6,000** (3x $2,000/mo)
+- 📦 Low ticket group call
+- 🎬 Higgsfield brand deal — worked on video
+
+### Apr 6 (Mon) — GSD: 4/10
+- 📦 CA Inner Circle (group call)
+- 📦 Moises 1-1
+- 📦 Gobb 1-1
+- 📦 Albert 1-1
+- 📦 Ayden 1-1
+- 📦 Saharat 1-1 (quick)
+- ❌ Victoria — no-show on sales call
+- 👤 Called Mom and Dad
+
+### Apr 5 (Sun) — GSD: 4/10
+- 🎬 Higgsfield brand deal — learned the tool, generated video hook, direction locked in
+
 ### Apr 4 (Sat) — GSD: 3/10
 - 📦 Hoku — Sent 2 Looms walking through Zernio posting system
 
-### Apr 3 (Fri) — GSD: 4/10
+### Apr 3 (Fri) — GSD: 5/10
 - 📦 CA Inner Circle (group call)
 - 🎬 Wrote Higgsfield brand deal script
 - 🎬 Filmed conversion/viral reel for offer positioning
+- ⚙️ Built "Book a Call" landing page (clean funnel for bookings)
 
 ### Apr 2 (Thu) — GSD: 6/10
 - 📦 **Tyler Pazner — Presented MVP** (implementation call)
