@@ -1,6 +1,6 @@
 # **TASKMASTER** ☑️
 
-_Updated: Monday, April 13, 2026_
+_Updated: Tuesday, April 14, 2026_
 
 ---
 
@@ -8,12 +8,10 @@ _Updated: Monday, April 13, 2026_
 
 | # | Task | Category | Deadline |
 |---|------|:--------:|:--------:|
-| 01 | **Build Oliver's Fulfillment System** | 📦 Fulfillment | 🔴 TODAY |
-| | _Must be ready to deliver on tomorrow's call. Highest priority._ | | |
-| 02 | **Transition 1-1 Clients to Group Call Model** | ⚙️ Build | 🔴 Apr 14 |
+| 01 | **Transition 1-1 Clients to Group Call Model** | ⚙️ Build | 🔴 Apr 14 |
 | | _Kill the 1-1 bottleneck. Move current clients to group calls. Frees 5-8 hrs/week for sales + content._ | | |
-| 03 | **File 2025 Taxes** | 🏦 Finance | 🔴 Apr 15 |
-| | _Prepped and ready to file — just need to submit_ | | |
+| 02 | **Text Ellie — Reconnect** | 👤 Personal | 🔴 Apr 15 |
+| | _Hit her up, see how she's doing, ask to hop on a call. Be genuine — you admire her, keep it real._ | | |
 | 04 | **Alex Eubank — Build Fresh Creatives Workstation** | 📦 Fulfillment | 🟡 Apr 4 |
 | | _AI creative generation for Fresh supplement brand launch_ | | |
 
@@ -29,10 +27,10 @@ _Updated: Monday, April 13, 2026_
 ## **⚡ Activity (Apr 13 – Apr 19)**
 
 ```
-  Fulfillment  ██░░░░░░░░░░░░░░░░░░░   2
-  Sales        █░░░░░░░░░░░░░░░░░░░░   1
+  Fulfillment  ██████████████████░░░   7
+  Sales        ██░░░░░░░░░░░░░░░░░░░   2
   Marketing    ░░░░░░░░░░░░░░░░░░░░░   0
-  Finance      ░░░░░░░░░░░░░░░░░░░░░   0
+  Finance      █░░░░░░░░░░░░░░░░░░░░   1
   Build        ░░░░░░░░░░░░░░░░░░░░░   0
   Trap         ░░░░░░░░░░░░░░░░░░░░░   0
 ```
@@ -81,10 +79,20 @@ _Updated: Monday, April 13, 2026_
 
 ## **📋 Daily Log**
 
+### Apr 14 (Tue)
+- 🏦 **Filed 2025 taxes**
+- 📦 Oliver 1-1
+- 📦 Group call
+- 💵 **DM outreach blitz** (28 leads worked)
+
 ### Apr 13 (Mon)
 - 💵 **Higgsfield — $2K collected**
 - 📦 Gobb 1-1
 - 📦 Moises 1-1
+- 📦 Albert 1-1
+- 📦 Ayden 1-1
+- 📦 Saharat 1-1
+- 📦 **Oliver — Built MVP automation**
 
 ### Apr 12 (Sun) — GSD: 6/10
 - 🎬 **YouTube video — FINISHED** (edited and done)
