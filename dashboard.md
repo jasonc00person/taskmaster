@@ -1,6 +1,6 @@
 # **TASKMASTER** ☑️
 
-_Updated: Tuesday, April 14, 2026_
+_Updated: Friday, April 17, 2026_
 
 ---
 
@@ -12,7 +12,7 @@ _Updated: Tuesday, April 14, 2026_
 | | _Kill the 1-1 bottleneck. Move current clients to group calls. Frees 5-8 hrs/week for sales + content._ | | |
 | 02 | **Text Ellie — Reconnect** | 👤 Personal | 🔴 Apr 15 |
 | | _Hit her up, see how she's doing, ask to hop on a call. Be genuine — you admire her, keep it real._ | | |
-| 04 | **Alex Eubank — Build Fresh Creatives Workstation** | 📦 Fulfillment | 🟡 Apr 4 |
+| 03 | **Alex Eubank — Build Fresh Creatives Workstation** | 📦 Fulfillment | 🟡 Apr 4 |
 | | _AI creative generation for Fresh supplement brand launch_ | | |
 
 ---
@@ -27,12 +27,12 @@ _Updated: Tuesday, April 14, 2026_
 ## **⚡ Activity (Apr 13 – Apr 19)**
 
 ```
-  Fulfillment  ██████████████████░░░   7
-  Sales        ██░░░░░░░░░░░░░░░░░░░   2
-  Marketing    █░░░░░░░░░░░░░░░░░░░░   1
-  Finance      █░░░░░░░░░░░░░░░░░░░░   1
-  Build        ███░░░░░░░░░░░░░░░░░░   3
-  Trap         ░░░░░░░░░░░░░░░░░░░░░   0
+  Fulfillment  █████████████████████  13
+  Marketing    █████████░░░░░░░░░░░░   5
+  Sales        ███████░░░░░░░░░░░░░░   4
+  Build        █████░░░░░░░░░░░░░░░░   3
+  Trap         ████░░░░░░░░░░░░░░░░░   2
+  Finance      ██░░░░░░░░░░░░░░░░░░░   1
 ```
 
 <details><summary>Prior week (Apr 6 – Apr 12)</summary>
@@ -78,6 +78,24 @@ _Updated: Tuesday, April 14, 2026_
 ---
 
 ## **📋 Daily Log**
+
+### Apr 17 (Fri) — GSD: 6/10
+- 📦 **Oliver — Student Dashboard SHIPPED** (fulfillment system delivered)
+- 🎬 **Edited + posted IG reel**
+- ❌ Sales call no-show
+- 📦 Patrick 1-1
+- 💵 Sales call — just wanted to chop it up (no close)
+- ❌ Sales call — tire kicker wanting free shit
+
+### Apr 16 (Thu) — GSD: 7/10
+- 📦 Tyler 1-1
+- 📦 Group call
+- 📦 Tyler — content project fulfillment
+- 🎬 Filmed 2 IG reels
+- 💵 **DM outreach/setting — booked 2 sales calls**
+
+### Apr 15 (Wed) — GSD: 6/10
+- 🎬 **Filmed + posted IG reel**
 
 ### Apr 14 (Tue)
 - 🏦 **Filed 2025 taxes**
