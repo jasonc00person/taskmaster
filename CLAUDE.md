@@ -55,6 +55,23 @@ Every task gets ONE tag. Four departments of the business, plus waste:
    - [ ] Check if any top priority items should be updated/removed
    - [ ] Update the "Updated" date at the top
    - **If you only update the log without touching the chart and prios, the dashboard is broken. Do not do partial updates.**
+
+   **Activity chart standard — ALL charts use this scale, ALWAYS:**
+   - Bar width: **21 characters** exactly
+   - Scale: **1 block (`█`) = 1 task count**, empty slots are dots (`░`)
+   - Values of 21+ fill the entire bar (cap visually, but show the real number)
+   - Number formatting: 2 spaces + right-aligned 2-digit-wide number (e.g. `   3` or `  15`)
+   - This scale is **absolute and applies to every chart** — current week AND every prior week in the `<details>` blocks. Never scale relative to the week's max. If you update one chart, audit all of them.
+   - Quick reference: 3 → `███░░░░░░░░░░░░░░░░░░`, 14 → `██████████████░░░░░░░`, 15 → `███████████████░░░░░░`
+
+   **Chart rendering — use `<pre>` blocks, NOT triple-backtick fences**, so inline HTML renders. Wrap each category's `█` blocks (NOT the dots) in a color span:
+   - 📦 Fulfillment → `<span style="color:#FB923C">███</span>` (orange)
+   - 🎬 Marketing → `<span style="color:#A78BFA">███</span>` (purple)
+   - 💵 Sales → `<span style="color:#4ADE80">███</span>` (green)
+   - ⚙️ Build → `<span style="color:#60A5FA">███</span>` (blue)
+   - 🏦 Finance → `<span style="color:#FBBF24">███</span>` (gold)
+   - ❌ Trap → `<span style="color:#EF4444">███</span>` (red)
+   - If a category has 0 blocks, skip the span (the all-dots row stays plain).
 4. **When Jason says "what did I get done"**: Summarize from `dashboard.md` daily log, show the category breakdown, give the daily score.
 5. **End of day**: Make sure the day is logged in `dashboard.md` daily log with a GSD score. Archive to `daily-logs/YYYY-MM-DD.md`.
 6. **Weekly review**: Every Sunday/Monday, update `dashboard.md` with the new week's priorities, scores, and pipeline. Write weekly summary to `weekly-reports/`.
@@ -69,18 +86,18 @@ Every task gets ONE tag. Four departments of the business, plus waste:
 Revenue baseline (auto-pilot):
 - $8,900 Skool low-ticket MRR
 - $1,500 Poppy affiliate payouts
-- $2,350 payment plans (Saharat + Moises — Moises at risk, silent first week)
+- $1,000 payment plans (Saharat — Moises churned, renewal due Apr 20 never came)
 - $2,000 Patrick collection (Apr 8-9)
 - $2,000 Higgsfield brand deal (overdue, filming Apr 5)
-- **Total baseline: ~$16,750**
+- **Total baseline: ~$15,400**
 
-**Gap: ~$23,250 in new high-ticket sales needed.**
+**Gap: ~$24,600 in new high-ticket sales needed.**
 - At $4K PIF: 6 closes. But not everyone PIFs.
 - Realistic: **8-10 new closes this month** (~2-3/week).
 - Requires **5-6 sales calls/week** at 40-50% close rate.
 - Content + outreach are the pipeline. No content = no calls = no $40K.
 
-**Current clients (7):** Ayden, Gobb, Albert, Saharat, Patrick, Moises, Tyler
+**Current clients (6):** Ayden, Gobb, Albert, Saharat, Patrick, Tyler
 - Monday is a wall of fulfillment (6 calls). Accept it.
 - Wednesdays are sacred content days. Nothing else goes there.
 - Sleep directly impacts output — track sleep scores daily.

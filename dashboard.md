@@ -1,6 +1,6 @@
 # **TASKMASTER** ☑️
 
-_Updated: Friday, April 17, 2026_
+_Updated: Tuesday, April 21, 2026_
 
 ---
 
@@ -8,11 +8,9 @@ _Updated: Friday, April 17, 2026_
 
 | # | Task | Category | Deadline |
 |---|------|:--------:|:--------:|
-| 01 | **Transition 1-1 Clients to Group Call Model** | ⚙️ Build | 🔴 Apr 14 |
-| | _Kill the 1-1 bottleneck. Move current clients to group calls. Frees 5-8 hrs/week for sales + content._ | | |
-| 02 | **Text Ellie — Reconnect** | 👤 Personal | 🔴 Apr 15 |
-| | _Hit her up, see how she's doing, ask to hop on a call. Be genuine — you admire her, keep it real._ | | |
-| 03 | **Alex Eubank — Build Fresh Creatives Workstation** | 📦 Fulfillment | 🟡 Apr 4 |
+| 01 | **Hire Blake — Setter + Closer + Part-time CSM** | 🏦 Finance | 🔴 ASAP |
+| | _$1K base + 10% commissions. Unlock scale past $20K/mo ceiling. Solopreneur capacity hit — proven twice now. Frees Jason from fulfillment wall._ | | |
+| 02 | **Alex Eubank — Build Fresh Creatives Workstation** | 📦 Fulfillment | 🟡 Apr 4 |
 | | _AI creative generation for Fresh supplement brand launch_ | | |
 
 ---
@@ -24,60 +22,72 @@ _Updated: Friday, April 17, 2026_
 
 ---
 
-## **⚡ Activity (Apr 13 – Apr 19)**
+## **⚡ Activity (Apr 20 – Apr 26)**
 
-```
-  Fulfillment  █████████████████████  13
-  Marketing    █████████░░░░░░░░░░░░   5
-  Sales        ███████░░░░░░░░░░░░░░   4
-  Build        █████░░░░░░░░░░░░░░░░   3
-  Trap         ████░░░░░░░░░░░░░░░░░   2
-  Finance      ██░░░░░░░░░░░░░░░░░░░   1
-```
+<pre>
+  Fulfillment  <span style="color:#FB923C">███</span>░░░░░░░░░░░░░░░░░░   3
+  Marketing    ░░░░░░░░░░░░░░░░░░░░░   0
+  Sales        ░░░░░░░░░░░░░░░░░░░░░   0
+  Build        <span style="color:#60A5FA">█</span>░░░░░░░░░░░░░░░░░░░░   1
+  Finance      <span style="color:#FBBF24">█</span>░░░░░░░░░░░░░░░░░░░░   1
+  Trap         ░░░░░░░░░░░░░░░░░░░░░   0
+</pre>
+
+<details><summary>Prior week (Apr 13 – Apr 19)</summary>
+
+<pre>
+  Fulfillment  <span style="color:#FB923C">███████████████</span>░░░░░░  15
+  Marketing    <span style="color:#A78BFA">█████</span>░░░░░░░░░░░░░░░░   5
+  Sales        <span style="color:#4ADE80">████</span>░░░░░░░░░░░░░░░░░   4
+  Build        <span style="color:#60A5FA">███</span>░░░░░░░░░░░░░░░░░░   3
+  Trap         <span style="color:#EF4444">██</span>░░░░░░░░░░░░░░░░░░░   2
+  Finance      <span style="color:#FBBF24">█</span>░░░░░░░░░░░░░░░░░░░░   1
+</pre>
+
+</details>
 
 <details><summary>Prior week (Apr 6 – Apr 12)</summary>
 
-```
-  Fulfillment  █████████████████████  14
-  Marketing    █████████░░░░░░░░░░░░   6
-  Sales        ███░░░░░░░░░░░░░░░░░░   2
-  Trap         ███░░░░░░░░░░░░░░░░░░   2
+<pre>
+  Fulfillment  <span style="color:#FB923C">██████████████</span>░░░░░░░  14
+  Marketing    <span style="color:#A78BFA">██████</span>░░░░░░░░░░░░░░░   6
+  Sales        <span style="color:#4ADE80">██</span>░░░░░░░░░░░░░░░░░░░   2
+  Trap         <span style="color:#EF4444">██</span>░░░░░░░░░░░░░░░░░░░   2
   Finance      ░░░░░░░░░░░░░░░░░░░░░   0
   Build        ░░░░░░░░░░░░░░░░░░░░░   0
-```
+</pre>
 
 </details>
 
 <details><summary>Prior week (Mar 30 – Apr 5)</summary>
 
-```
-  Fulfillment  ████████████████████  14
-  Sales        ████░░░░░░░░░░░░░░░░   3
-  Marketing    █████░░░░░░░░░░░░░░░   4
-  Finance      █░░░░░░░░░░░░░░░░░░░   1
-  Build        █░░░░░░░░░░░░░░░░░░░   1
-  Trap         ░░░░░░░░░░░░░░░░░░░░   0
-```
-
-</details>
-
-<details><summary>Prior week (Mar 23 – Mar 29)</summary>
-
-```
-  Fulfillment  ████████████████████  11
-  Trap         █████████░░░░░░░░░░░   5
-  Sales        ███████░░░░░░░░░░░░░   4
-  Personal     █████░░░░░░░░░░░░░░░   3
-  Marketing    ████░░░░░░░░░░░░░░░░   2
-  Build        ████░░░░░░░░░░░░░░░░   2
-  Finance      ░░░░░░░░░░░░░░░░░░░░   0
-```
+<pre>
+  Fulfillment  <span style="color:#FB923C">██████████████</span>░░░░░░░  14
+  Sales        <span style="color:#4ADE80">███</span>░░░░░░░░░░░░░░░░░░   3
+  Marketing    <span style="color:#A78BFA">████</span>░░░░░░░░░░░░░░░░░   4
+  Finance      <span style="color:#FBBF24">█</span>░░░░░░░░░░░░░░░░░░░░   1
+  Build        <span style="color:#60A5FA">█</span>░░░░░░░░░░░░░░░░░░░░   1
+  Trap         ░░░░░░░░░░░░░░░░░░░░░   0
+</pre>
 
 </details>
 
 ---
 
 ## **📋 Daily Log**
+
+### Apr 20 (Mon)
+- ⚙️ **Transitioned all 1-1 clients to group call model** (announced on group call + notified clients — kills the Monday fulfillment wall)
+- 📦 Group call
+- 🏦 **Sold the car** (finally done)
+- 📦 Ayden 1-1
+- 📦 **Client looms + weekly content ideas — 4 clients in 2 hrs** (async fulfillment model working — ~50% faster than 1-1s)
+
+### Apr 19 (Sun) — GSD: 1/10
+- 👤 Off day, nothing logged
+
+### Apr 18 (Sat) — GSD: 4/10
+- 📦 **Oliver app — full day of build work**
 
 ### Apr 17 (Fri) — GSD: 6/10
 - 📦 **Oliver — Student Dashboard SHIPPED** (fulfillment system delivered)
@@ -86,6 +96,7 @@ _Updated: Friday, April 17, 2026_
 - 📦 Patrick 1-1
 - 💵 Sales call — just wanted to chop it up (no close)
 - ❌ Sales call — tire kicker wanting free shit
+- 📦 Patrick — sent 9 scraped viral reel ideas to copy
 
 ### Apr 16 (Thu) — GSD: 7/10
 - 📦 Tyler 1-1
