@@ -12,14 +12,32 @@ This is a **conversational system**. Jason talks to Claude, Claude updates the f
 2. Claude updates the relevant Markdown files
 3. Files are the source of truth — viewable in VS Code anytime
 
-## Core Files
+## Architecture
+
+**Data layer (source of truth) — `data/`:**
 
 | File | Purpose |
 |------|---------|
-| `dashboard.md` | Command center — priorities, activity breakdown, scoreboard, daily log. The main file. |
-| `week-plan.md` | The weekly plan — day-by-day schedule with calls, tasks, and themes. |
-| `daily-logs/` | Permanent archive. One file per day: `YYYY-MM-DD.md`. The long-term record. |
+| `data/tasks.jsonl` | Append-only event log. One task per line. Source of truth for activity. |
+| `data/days.jsonl` | Day-level metadata: GSD score, day type (REST), day-of-week. |
+| `data/priorities.md` | Top Priorities section — hand-edited markdown. |
+| `data/backlog.md` | Backlog section — hand-edited markdown. |
+
+**View layer (auto-generated):**
+
+| File | Purpose |
+|------|---------|
+| `dashboard.md` | **REGENERATED from `data/` by `scripts/render.py`. Never hand-edit.** |
+
+**Other:**
+
+| File | Purpose |
+|------|---------|
+| `week-plan.md` | Weekly plan — day-by-day schedule. |
 | `weekly-reports/` | Weekly summaries. One file per week: `YYYY-WXX.md`. |
+| `daily-logs/` | Legacy archive (pre-data-layer). Optional. |
+| `scripts/render.py` | Regenerates `dashboard.md` from `data/`. Run after every change. |
+| `scripts/backfill.py` | One-time migration. Already run. Don't re-run. |
 
 ## Task Categories
 
@@ -47,37 +65,49 @@ Every task gets ONE tag. Four departments of the business, plus waste:
 
 ## Rules for Claude
 
-1. **When Jason dumps tasks**: Add to `dashboard.md` priorities or backlog. Tag with the right category. **When a task is completed, remove it from the priority list entirely — don't strikethrough it.** The daily log is the record of what got done; the prio list should only show what's still open.
-2. **When Jason says "plan my day"**: Talk through the plan using `dashboard.md` priorities and `week-plan.md`. Make sure there's at least 1 SALES or MARKETING task on deck.
-3. **When Jason completes a task OR logs any activity**: Full dashboard sync. Every time. No exceptions. Hit ALL of these:
-   - [ ] Add/update the entry in the daily log
-   - [ ] Recount and update the activity chart numbers for the current week
-   - [ ] Check if any top priority items should be updated/removed
-   - [ ] Update the "Updated" date at the top
-   - **If you only update the log without touching the chart and prios, the dashboard is broken. Do not do partial updates.**
+### The Workflow (THE ONLY WAY TO LOG ACTIVITY)
 
-   **Activity chart standard — ALL charts use this scale, ALWAYS:**
-   - Bar width: **21 characters** exactly
-   - Scale: **1 block (`█`) = 1 task count**, empty slots are dots (`░`)
-   - Values of 21+ fill the entire bar (cap visually, but show the real number)
-   - Number formatting: 2 spaces + right-aligned 2-digit-wide number (e.g. `   3` or `  15`)
-   - This scale is **absolute and applies to every chart** — current week AND every prior week in the `<details>` blocks. Never scale relative to the week's max. If you update one chart, audit all of them.
-   - Quick reference: 3 → `███░░░░░░░░░░░░░░░░░░`, 14 → `██████████████░░░░░░░`, 15 → `███████████████░░░░░░`
+**When Jason logs a task or completes activity:**
 
-   **Chart rendering — use `<pre>` blocks, NOT triple-backtick fences**, so inline HTML renders. Wrap each category's `█` blocks (NOT the dots) in a color span:
-   - 📦 Fulfillment → `<span style="color:#FB923C">███</span>` (orange)
-   - 🎬 Marketing → `<span style="color:#A78BFA">███</span>` (purple)
-   - 💵 Sales → `<span style="color:#4ADE80">███</span>` (green)
-   - ⚙️ Build → `<span style="color:#60A5FA">███</span>` (blue)
-   - 🏦 Finance → `<span style="color:#FBBF24">███</span>` (gold)
-   - ❌ Trap → `<span style="color:#EF4444">███</span>` (red)
-   - If a category has 0 blocks, skip the span (the all-dots row stays plain).
-4. **When Jason says "what did I get done"**: Summarize from `dashboard.md` daily log, show the category breakdown, give the daily score.
-5. **End of day**: Make sure the day is logged in `dashboard.md` daily log with a GSD score. Archive to `daily-logs/YYYY-MM-DD.md`.
-6. **Weekly review**: Every Sunday/Monday, update `dashboard.md` with the new week's priorities, scores, and pipeline. Write weekly summary to `weekly-reports/`.
-7. **Call out TRAP tasks**: If Jason is about to spend time on something that looks like busywork, say so. Be direct.
-8. **Call out fulfillment-heavy days**: If the whole day is fulfillment with no sales or marketing, flag it. Maintenance isn't growth.
-9. **Keep it simple**: Don't over-organize. Don't add metadata nobody reads. Don't create files that won't get used.
+1. Append a JSON line to `data/tasks.jsonl`:
+   ```bash
+   echo '{"date":"YYYY-MM-DD","category":"SALES","title":"...","note":"...","emphasis":true}' >> data/tasks.jsonl
+   ```
+   - `category` (required): one of `SALES MARKETING FINANCE FULFILLMENT BUILD TRAP PERSONAL`
+   - `title` (required): short, no markdown bold markers
+   - `note` (optional): trailing parenthetical context
+   - `emphasis` (optional, bool): renders as bold in the daily log
+
+2. If the day is new or GSD score changed, append/update `data/days.jsonl`:
+   ```json
+   {"date":"YYYY-MM-DD","dow":"Mon","gsd":7}
+   ```
+   To update an existing day: rewrite the file with the updated record (small file, fine to rewrite).
+
+3. Run the render script:
+   ```bash
+   python3 scripts/render.py
+   ```
+
+That's it. The script handles activity charts, weekly counts, daily log formatting, the "Updated" date, and ordering. **Never hand-edit `dashboard.md` directly — it gets regenerated.**
+
+### Other Rules
+
+1. **When Jason dumps tasks for later**: Edit `data/priorities.md` or `data/backlog.md` directly. Then run `render.py`. **When a priority is completed, remove it entirely — don't strikethrough.** The daily log records what got done.
+
+2. **When Jason says "plan my day"**: Talk through the plan using `data/priorities.md` and `week-plan.md`. Make sure there's at least 1 SALES or MARKETING task on deck.
+
+3. **When Jason says "what did I get done"**: Query `data/tasks.jsonl` for the date(s) in question. Summarize with category breakdown and GSD score. Example: `jq -c 'select(.date=="2026-04-26")' data/tasks.jsonl`
+
+4. **End of day**: Make sure the day has a GSD score in `data/days.jsonl` and run `render.py`.
+
+5. **Weekly review**: Sunday/Monday, update `data/priorities.md` for the new week, run `render.py`, then write a weekly summary to `weekly-reports/`.
+
+6. **Call out TRAP tasks**: If Jason is about to spend time on busywork, say so. Be direct.
+
+7. **Call out fulfillment-heavy days**: If the whole day is fulfillment with no sales or marketing, flag it.
+
+8. **Keep it simple**: Don't over-organize. Don't add metadata nobody reads. Don't create files that won't get used.
 
 ## April 2026 — The $40K Month
 

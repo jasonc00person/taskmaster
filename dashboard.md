@@ -1,6 +1,6 @@
 # **TASKMASTER** ☑️
 
-_Updated: Tuesday, April 21, 2026_
+_Updated: Sunday, April 26, 2026_
 
 ---
 
@@ -8,16 +8,24 @@ _Updated: Tuesday, April 21, 2026_
 
 | # | Task | Category | Deadline |
 |---|------|:--------:|:--------:|
-| 01 | **Hire Blake — Setter + Closer + Part-time CSM** | 🏦 Finance | 🔴 ASAP |
-| | _$1K base + 10% commissions. Unlock scale past $20K/mo ceiling. Solopreneur capacity hit — proven twice now. Frees Jason from fulfillment wall._ | | |
-| 02 | **Alex Eubank — Build Fresh Creatives Workstation** | 📦 Fulfillment | 🟡 Apr 4 |
-| | _AI creative generation for Fresh supplement brand launch_ | | |
+| 01 | **LAUNCH PREP — all assets ready by Sun May 3** | 🎬 Marketing | 🔴 by Sun May 3 |
+| | _This week = build. Next week = post + run sequence + collect cash. Nothing half-baked going into launch week._ | | |
+| | **Locks (Mon):** Offer locked (hook, promise, price, urgency) · Blake briefed on outreach (script, list, daily quota) | | |
+| | **Content (first half):** Albert testimonial filmed Mon-Tue · HERO FILM DAY Wed Apr 29 · Edit + assemble Thu-Fri · IG story sequence drafted Fri | | |
+| | **Product (second half):** Onboarding flow ready · Program material ship-ready · Sat = polish + Albert clips integrated | | |
+| | **Pipeline (all week):** Blake on outreach all 5 days — warm leads before launch week | | |
+| 02 | **Follow up — qualified prospect from Apr 24 call** | 💵 Sales | 🔴 Wed-Thu (Apr 29-30) |
+| | _Almost-close, very qualified. Lock him in pre-launch as a "case study close."_ | | |
+| 03 | **Oliver — full handoff to new dev by EOW** | 📦 Fulfillment | 🔴 by Fri May 1 |
+| | _Repo shared Apr 26. Route bugs to new dev — don't fix them yourself. Every fix you do delays the handoff._ | | |
+| 04 | **Weekly content ideas — all clients** | 📦 Fulfillment | 🔴 Sun night or Mon AM |
+| | _Recurring weekly fulfillment. Looms + content ideas to each client (Ayden, Gobb, Albert, Saharat, Patrick — Tyler paused). ~2 hrs, async model._ | | |
 
 ---
 
 ## **📥 Backlog**
 
-- 🏦 Figure out random Discover card charge
+- 🏦 **Call Discover (1-800-216-1374)** — dispute Base44 fraud charge, request card reissue with new number
 - 👤 Get chair back from Miami — call delivery place to pick up from Kayna
 
 ---
@@ -25,11 +33,11 @@ _Updated: Tuesday, April 21, 2026_
 ## **⚡ Activity (Apr 20 – Apr 26)**
 
 <pre>
-  Fulfillment  <span style="color:#FB923C">███</span>░░░░░░░░░░░░░░░░░░   3
-  Marketing    ░░░░░░░░░░░░░░░░░░░░░   0
-  Sales        ░░░░░░░░░░░░░░░░░░░░░   0
+  Fulfillment  <span style="color:#FB923C">████████████</span>░░░░░░░░░  12
+  Sales        <span style="color:#4ADE80">██</span>░░░░░░░░░░░░░░░░░░░   2
+  Finance      <span style="color:#FBBF24">██</span>░░░░░░░░░░░░░░░░░░░   2
   Build        <span style="color:#60A5FA">█</span>░░░░░░░░░░░░░░░░░░░░   1
-  Finance      <span style="color:#FBBF24">█</span>░░░░░░░░░░░░░░░░░░░░   1
+  Marketing    ░░░░░░░░░░░░░░░░░░░░░   0
   Trap         ░░░░░░░░░░░░░░░░░░░░░   0
 </pre>
 
@@ -37,7 +45,7 @@ _Updated: Tuesday, April 21, 2026_
 
 <pre>
   Fulfillment  <span style="color:#FB923C">███████████████</span>░░░░░░  15
-  Marketing    <span style="color:#A78BFA">█████</span>░░░░░░░░░░░░░░░░   5
+  Marketing    <span style="color:#A78BFA">████</span>░░░░░░░░░░░░░░░░░   4
   Sales        <span style="color:#4ADE80">████</span>░░░░░░░░░░░░░░░░░   4
   Build        <span style="color:#60A5FA">███</span>░░░░░░░░░░░░░░░░░░   3
   Trap         <span style="color:#EF4444">██</span>░░░░░░░░░░░░░░░░░░░   2
@@ -51,7 +59,7 @@ _Updated: Tuesday, April 21, 2026_
 <pre>
   Fulfillment  <span style="color:#FB923C">██████████████</span>░░░░░░░  14
   Marketing    <span style="color:#A78BFA">██████</span>░░░░░░░░░░░░░░░   6
-  Sales        <span style="color:#4ADE80">██</span>░░░░░░░░░░░░░░░░░░░   2
+  Sales        <span style="color:#4ADE80">███</span>░░░░░░░░░░░░░░░░░░   3
   Trap         <span style="color:#EF4444">██</span>░░░░░░░░░░░░░░░░░░░   2
   Finance      ░░░░░░░░░░░░░░░░░░░░░   0
   Build        ░░░░░░░░░░░░░░░░░░░░░   0
@@ -63,8 +71,8 @@ _Updated: Tuesday, April 21, 2026_
 
 <pre>
   Fulfillment  <span style="color:#FB923C">██████████████</span>░░░░░░░  14
-  Sales        <span style="color:#4ADE80">███</span>░░░░░░░░░░░░░░░░░░   3
   Marketing    <span style="color:#A78BFA">████</span>░░░░░░░░░░░░░░░░░   4
+  Sales        <span style="color:#4ADE80">███</span>░░░░░░░░░░░░░░░░░░   3
   Finance      <span style="color:#FBBF24">█</span>░░░░░░░░░░░░░░░░░░░░   1
   Build        <span style="color:#60A5FA">█</span>░░░░░░░░░░░░░░░░░░░░   1
   Trap         ░░░░░░░░░░░░░░░░░░░░░   0
@@ -75,6 +83,31 @@ _Updated: Tuesday, April 21, 2026_
 ---
 
 ## **📋 Daily Log**
+
+### Apr 26 (Sun)
+- 📦 **Oliver — shared repo with new dev** (handoff started)
+- 📦 Oliver bug fixes (creeping scope — should be routing these to new dev)
+- 🏦 **Fired accountant** (cancellation sent — Claude handles books now)
+
+### Apr 25 (Sat) — GSD: 1/10
+- 👤 Wash day — stayed home, journaled, broke no-weed streak
+
+### Apr 24 (Fri) — GSD: 7/10
+- 📦 **Launch material — SHIPPED**
+- 💵 **Sales call — qualified, no close** (follow-up mid next week)
+- 📦 **Patrick — video edits sent**
+
+### Apr 23 (Thu)
+- 💵 **Hired Blake — first team hire** ($500/mo base + 10%, setter + closer)
+- 📦 **Oliver — ended engagement** (2-week handoff to new dev, no refund either way)
+- 📦 **Tyler — paused engagement** (mutual pause, no refund — dodged the refund bullet; likely effectively ended)
+
+### Apr 22 (Wed)
+- 📦 **Oliver software — full day of dev work** (scope creep — ate content day, not what was sold)
+
+### Apr 21 (Tue)
+- 📦 **Oliver — killed 1-1, went async** (quick call, EOD update + dev work still owed later)
+- 📦 Low ticket group call
 
 ### Apr 20 (Mon)
 - ⚙️ **Transitioned all 1-1 clients to group call model** (announced on group call + notified clients — kills the Monday fulfillment wall)
@@ -136,6 +169,7 @@ _Updated: Tuesday, April 21, 2026_
 - 👤 Recovery day (went out drinking night before, slept most of the day)
 
 ### Apr 10 (Fri) — GSD: 5/10
+- 💵 **Patrick — $2K collected**
 - ❌ Group call — no one showed up (TRAP — validates need for 1-1→group transition)
 - 📦 Patrick 1-1
 - 🎬 **Higgsfield brand deal video — DONE** (filmed + edited, posting tomorrow AM, finishing YT edit)
@@ -187,14 +221,14 @@ _Updated: Tuesday, April 21, 2026_
 - 📦 Patrick 1-1
 - 🏦 **Tax prep — prepped everything for 2025 filing** (~1hr)
 
+### Apr 1 (Wed) — GSD: 4/10
+- 📦 **Tyler Pazner — Report Automation MVP SHIPPED** (delivered a day early)
+- 🎬 Posted 2 Instagram Reels (nurture content — low leverage)
+
 ### Mar 31 (Tue) — GSD: 5/10
 - 📦 Office Hours
 - 📦 Moises Trinidad onboarding call (1 PM CT)
 - 💵 Waqas Qazi — Sales call (no close)
-
-### Apr 1 (Wed) — GSD: 4/10
-- 📦 **Tyler Pazner — Report Automation MVP SHIPPED** (delivered a day early)
-- 🎬 Posted 2 Instagram Reels (nurture content — low leverage)
 
 ### Mar 30 (Mon) — GSD: 8/10
 - 💵 **Moises Trinidad — CLOSED $4,050** (3x $1,350/mo)
@@ -277,19 +311,19 @@ _Updated: Tuesday, April 21, 2026_
 - 💵 Gobb CLOSED ($500+$500)
 - 💵 Saharat pitch delivered
 
-### Mar 09 (Sun) — GSD: 100%
+### Mar 9 (Sun) — GSD: 100%
 - 💵 Anthony Chestnut sales call
 - 💵 Cristiano sales call
 - 💵 Gobb sales call
 
-### Mar 06 (Thu) — GSD: 100%
+### Mar 6 (Thu) — GSD: 100%
 - 💵 CFong
 - 💵 Damien Fraser
 - 💵 Pablo
 - 💵 Pierre
 - 💵 Salim O — 5 market research calls
 
-### Mar 04 (Tue) — GSD: 100%
+### Mar 4 (Tue) — GSD: 100%
 - 💵 Brayden Harlow
 - 💵 Saharat
 - 💵 Victoria Clavero — 3 market research calls

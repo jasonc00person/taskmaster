@@ -1,0 +1,45 @@
+{"date": "2026-03-04", "dow": "Tue", "gsd_pct": 100}
+{"date": "2026-03-06", "dow": "Thu", "gsd_pct": 100}
+{"date": "2026-03-09", "dow": "Sun", "gsd_pct": 100}
+{"date": "2026-03-10", "dow": "Mon", "gsd_pct": 100}
+{"date": "2026-03-11", "dow": "Tue", "gsd_pct": 0}
+{"date": "2026-03-12", "dow": "Wed", "gsd_pct": 100}
+{"date": "2026-03-13", "dow": "Thu", "gsd_pct": 50}
+{"date": "2026-03-16", "dow": "Sun", "gsd_pct": 100}
+{"date": "2026-03-17", "dow": "Mon", "gsd_pct": 100}
+{"date": "2026-03-19", "dow": "Thu", "gsd_pct": 67}
+{"date": "2026-03-23", "dow": "Mon", "gsd": 3}
+{"date": "2026-03-24", "dow": "Tue", "gsd": 5}
+{"date": "2026-03-25", "dow": "Wed", "gsd": 6}
+{"date": "2026-03-26", "dow": "Thu", "gsd": 5}
+{"date": "2026-03-27", "dow": "Fri", "gsd": 7}
+{"date": "2026-03-28", "dow": "Sat", "gsd": 3}
+{"date": "2026-03-29", "dow": "Sun", "day_type": "REST"}
+{"date": "2026-03-30", "dow": "Mon", "gsd": 8}
+{"date": "2026-03-31", "dow": "Tue", "gsd": 5}
+{"date": "2026-04-01", "dow": "Wed", "gsd": 4}
+{"date": "2026-04-02", "dow": "Thu", "gsd": 6}
+{"date": "2026-04-03", "dow": "Fri", "gsd": 5}
+{"date": "2026-04-04", "dow": "Sat", "gsd": 3}
+{"date": "2026-04-05", "dow": "Sun", "gsd": 4}
+{"date": "2026-04-06", "dow": "Mon", "gsd": 4}
+{"date": "2026-04-07", "dow": "Tue", "gsd": 8}
+{"date": "2026-04-08", "dow": "Wed", "gsd": 6}
+{"date": "2026-04-09", "dow": "Thu", "gsd": 5}
+{"date": "2026-04-10", "dow": "Fri", "gsd": 5}
+{"date": "2026-04-11", "dow": "Sat", "gsd": 1, "day_type": "REST"}
+{"date": "2026-04-12", "dow": "Sun", "gsd": 6}
+{"date": "2026-04-13", "dow": "Mon"}
+{"date": "2026-04-14", "dow": "Tue"}
+{"date": "2026-04-15", "dow": "Wed", "gsd": 6}
+{"date": "2026-04-16", "dow": "Thu", "gsd": 7}
+{"date": "2026-04-17", "dow": "Fri", "gsd": 6}
+{"date": "2026-04-18", "dow": "Sat", "gsd": 4}
+{"date": "2026-04-19", "dow": "Sun", "gsd": 1}
+{"date": "2026-04-20", "dow": "Mon"}
+{"date": "2026-04-21", "dow": "Tue"}
+{"date": "2026-04-22", "dow": "Wed"}
+{"date": "2026-04-23", "dow": "Thu"}
+{"date": "2026-04-24", "dow": "Fri", "gsd": 7}
+{"date": "2026-04-25", "dow": "Sat", "gsd": 1}
+{"date": "2026-04-26", "dow": "Sun"}
