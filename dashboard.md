@@ -1,6 +1,6 @@
 # **TASKMASTER** ☑️
 
-_Updated: Sunday, April 26, 2026_
+_Updated: Monday, April 27, 2026_
 
 ---
 
@@ -16,30 +16,42 @@ _Updated: Sunday, April 26, 2026_
 | | **Pipeline (all week):** Blake on outreach all 5 days — warm leads before launch week | | |
 | 02 | **Follow up — qualified prospect from Apr 24 call** | 💵 Sales | 🔴 Wed-Thu (Apr 29-30) |
 | | _Almost-close, very qualified. Lock him in pre-launch as a "case study close."_ | | |
-| 03 | **Oliver — full handoff to new dev by EOW** | 📦 Fulfillment | 🔴 by Fri May 1 |
-| | _Repo shared Apr 26. Route bugs to new dev — don't fix them yourself. Every fix you do delays the handoff._ | | |
-| 04 | **Weekly content ideas — all clients** | 📦 Fulfillment | 🔴 Sun night or Mon AM |
-| | _Recurring weekly fulfillment. Looms + content ideas to each client (Ayden, Gobb, Albert, Saharat, Patrick — Tyler paused). ~2 hrs, async model._ | | |
+| 03 | **Resubmit identity verification on Garna — release $2K Higgsfield payout** | 🏦 Finance | 🔴 ASAP |
+| | _$2K sitting locked. Re-upload ID, get it cleared, get paid._ | | |
 
 ---
 
 ## **📥 Backlog**
 
+- 🏦 **Moises dispute on Whop** — he just submitted one, monitor + respond to win it. Also find a Whop rep to connect with so account stays healthy.
 - 🏦 **Call Discover (1-800-216-1374)** — dispute Base44 fraud charge, request card reissue with new number
 - 👤 Get chair back from Miami — call delivery place to pick up from Kayna
 
 ---
 
-## **⚡ Activity (Apr 20 – Apr 26)**
+## **⚡ Activity (Apr 27 – May 3)**
+
+<pre>
+  Fulfillment  <span style="color:#FB923C">███</span>░░░░░░░░░░░░░░░░░░   3
+  Sales        <span style="color:#4ADE80">█</span>░░░░░░░░░░░░░░░░░░░░   1
+  Trap         <span style="color:#EF4444">█</span>░░░░░░░░░░░░░░░░░░░░   1
+  Marketing    ░░░░░░░░░░░░░░░░░░░░░   0
+  Finance      ░░░░░░░░░░░░░░░░░░░░░   0
+  Build        ░░░░░░░░░░░░░░░░░░░░░   0
+</pre>
+
+<details><summary>Prior week (Apr 20 – Apr 26)</summary>
 
 <pre>
   Fulfillment  <span style="color:#FB923C">████████████</span>░░░░░░░░░  12
   Sales        <span style="color:#4ADE80">██</span>░░░░░░░░░░░░░░░░░░░   2
   Finance      <span style="color:#FBBF24">██</span>░░░░░░░░░░░░░░░░░░░   2
-  Build        <span style="color:#60A5FA">█</span>░░░░░░░░░░░░░░░░░░░░   1
+  Build        <span style="color:#60A5FA">██</span>░░░░░░░░░░░░░░░░░░░   2
   Marketing    ░░░░░░░░░░░░░░░░░░░░░   0
   Trap         ░░░░░░░░░░░░░░░░░░░░░   0
 </pre>
+
+</details>
 
 <details><summary>Prior week (Apr 13 – Apr 19)</summary>
 
@@ -67,27 +79,22 @@ _Updated: Sunday, April 26, 2026_
 
 </details>
 
-<details><summary>Prior week (Mar 30 – Apr 5)</summary>
-
-<pre>
-  Fulfillment  <span style="color:#FB923C">██████████████</span>░░░░░░░  14
-  Marketing    <span style="color:#A78BFA">████</span>░░░░░░░░░░░░░░░░░   4
-  Sales        <span style="color:#4ADE80">███</span>░░░░░░░░░░░░░░░░░░   3
-  Finance      <span style="color:#FBBF24">█</span>░░░░░░░░░░░░░░░░░░░░   1
-  Build        <span style="color:#60A5FA">█</span>░░░░░░░░░░░░░░░░░░░░   1
-  Trap         ░░░░░░░░░░░░░░░░░░░░░   0
-</pre>
-
-</details>
-
 ---
 
 ## **📋 Daily Log**
+
+### Apr 27 (Mon)
+- 💵 **Blake sales training — fully onboarded** (got him up + running on outreach/sales stack, booked a call together)
+- 📦 Group call
+- 📦 Ayden 1-1 (off-scope — skipped group call to ask about scaling a SaaS, wants to switch offers)
+- ❌ Fahim call
+- 📦 **Weekly content ideas — all clients delivered** (Looms + ideas to Ayden, Gobb, Albert, Saharat, Patrick)
 
 ### Apr 26 (Sun)
 - 📦 **Oliver — shared repo with new dev** (handoff started)
 - 📦 Oliver bug fixes (creeping scope — should be routing these to new dev)
 - 🏦 **Fired accountant** (cancellation sent — Claude handles books now)
+- ⚙️ **Polished CA Backbone doc** (niche, offer, unique mechanism (Fresh Content Engine), guarantee — ready for next cohort)
 
 ### Apr 25 (Sat) — GSD: 1/10
 - 👤 Wash day — stayed home, journaled, broke no-weed streak

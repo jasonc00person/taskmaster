@@ -1,0 +1,197 @@
+CURRENT PROBLEMS — RAW MATERIAL FOR CA BACKBONE DOC
+====================================================
+
+PURPOSE: Replace the old "current problems" section with an HONEST,
+specific, clear-eyed read of where the business actually is. No
+"bottom of the totem pole" cope. No false-failure narrative. Just
+the real situation and the real diagnosis.
+
+------------------------------------------------------------
+THE FRAMING SHIFT (do this in your head before writing)
+------------------------------------------------------------
+
+OLD frame: "I'm at the bottom of the top 1%, getting beat by Soowei
+and Ava, working hard but stuck."
+
+PROBLEM with old frame:
+- "Bottom of the totem pole" is factually wrong. You're 23, $240k/yr,
+  top 1% by age, $35k net worth (positive). Most 23yos are negative.
+- "Working hard but stuck" misdiagnoses the problem. You ARE working
+  hard. That's not the gap.
+- Frames you as the underdog. You're not. You're the fast-moving
+  founder who hasn't picked his hill yet.
+
+NEW frame: "I cleared level 1 — top 1% income for my age, solo, at
+23. Now I'm choosing between coasting into upper-middle for life
+OR compounding into top 1% lifetime. The only thing standing
+between me and the second path is staying on ONE hill long enough
+for it to compound."
+
+------------------------------------------------------------
+THE REAL DIAGNOSIS — IT'S NOT WHAT YOU THOUGHT
+------------------------------------------------------------
+
+The gap with Soowei isn't IQ. Isn't work ethic. Isn't strategy in
+the abstract.
+
+It's CONSISTENCY ON ONE OFFER.
+
+Soowei has been on the same hill (high-ticket coaching) for 24+
+months. You've been hopping hills.
+
+You said it yourself: "I'm just now restarting high ticket from
+scratch when people like Ava and Soowei stayed consistent with it."
+
+That sentence is the whole thesis. Not "I work less than him" —
+"I keep restarting, he never did."
+
+The compounding math doesn't reward effort. It rewards SLOPE
+maintained over time. Every pivot = slope reset to zero. You've
+worked 24 months and done 24 months of work, but compounded maybe
+6-9 months of slope because you reset 2-3 times.
+
+Soowei worked 24 months and compounded 24 months of slope. That's
+the entire difference.
+
+------------------------------------------------------------
+THE REAL CURRENT STATE (UNCUT)
+------------------------------------------------------------
+
+WHAT'S WORKING:
+- $20-25k/mo solo at 23 — top 1% income for age, earned, real
+- Just ran a 7-client cohort, learned the offer end-to-end
+- Cut the unscalable AI implementation offer (sharp business move,
+  not a failure)
+- Pivoted to coaching-only, group calls + course content
+- Hired Blake as setter — first leverage move, sales capacity 2x'd
+- Built tracking systems (taskmaster, dashboard, content systems)
+- Identified content as non-negotiable
+
+WHAT'S NOT WORKING (BE HONEST):
+- Net worth $35k on $240k/yr = ~85%+ burn rate. Income flows to
+  lifestyle, not assets. No equity, no appreciating positions.
+  Structural problem, not a willpower problem.
+- Multi-year flip-flop pattern. Started/stopped high-ticket multiple
+  times. THIS is the actual Soowei gap. Not effort.
+- Marketing dropped to 0 last week. Pipeline atrophies in 2 weeks.
+  Content discipline broke during fulfillment-heavy month.
+- Discipline gaps acknowledged: sleep, habits, work ethic when
+  not on a deadline.
+
+WHAT WAS REAL ABOUT APRIL:
+- April was R&D, not a sales month. Correctly so.
+- Closed 7 clients = real revenue + real testimonials + real
+  delivery data
+- Discovered AI implementation didn't scale, cut it fast
+- Built scalable delivery model (group + course)
+- April was a NET POSITIVE month even though it looked
+  fulfillment-heavy in the data
+
+WHAT WASN'T (could've been done better):
+- Sold AI implementation before designing delivery → 2 weeks of
+  fulfillment hell that could've been avoided
+- Hired Blake 2 weeks late → lost pipeline weeks
+- Let marketing go to 0 → pipeline atrophy entering May
+
+These are minor critiques. The first-order question is "did April
+produce useful infrastructure?" — yes, decisively.
+
+------------------------------------------------------------
+THE NUMBERS THAT MATTER
+------------------------------------------------------------
+
+INCOME:
+- Current: $20-25k/mo solo
+- Target: $50k/mo to scale, $100k+/mo to play with Soowei/Ava
+- Top 1% age threshold (24): ~$175k/yr → CLEARED
+- Top 1% national: $600-700k/yr → 1/3 of the way
+- Top 1% lifetime lifestyle bar: ~$1M+/yr post-tax
+
+NET WORTH:
+- Current: $35k
+- Top 1% age 18-24: $435-650k → way below
+- Top 1% all ages: ~$13M → tiny
+- The actual gap is here, not in income
+
+PIPELINE / OUTPUT:
+- Last week: 12 fulfillment / 2 sales / 0 marketing / 1 build
+- Marketing 0 = the only number that should bother you
+- Going forward: 4-5 content/week, 5-6 sales calls/week, daily
+  outreach via Blake
+
+------------------------------------------------------------
+DRAFT CELL TEXT — PASTE INTO THE BACKBONE DOC
+------------------------------------------------------------
+
+CURRENT PROBLEMS:
+
+I cleared level 1 of online money — $20-25k/mo solo at 23. Top 1%
+for my age. Most people my age are still student-loan negative. I
+earned where I am.
+
+But I've been STUCK at level 1 for too long. The reason isn't work
+ethic — I work full time, every weekday, almost every day produces
+something. The reason is INCONSISTENCY ON ONE OFFER.
+
+I keep restarting. Soowei and Ava picked one hill (high-ticket
+coaching) and rode it for 24+ months without flinching. I've been
+on that hill, off it, on a different model, back to it. Each pivot
+resets compounding to zero. That's why they're at $100k/mo and I'm
+at $20-25k. Same effort. Different slope-maintenance.
+
+The fulfillment bottleneck is also real but it's now SOLVED. April
+was a rebuild month — closed 7 clients, ran a launch, tested
+delivery, cut AI implementation (didn't scale), pivoted to coaching
++ group + course. Hired Blake as setter for sales leverage. The
+infrastructure to scale to $50k/mo now exists.
+
+Net worth is $35k on $240k/yr — burn rate is too high. Income flows
+to lifestyle, not assets. That's the deeper problem behind the
+income one. Top 1% lifestyle isn't a $50k/mo income problem —
+it's a "convert income to ownership" problem.
+
+THE REAL COMMITMENT:
+Stay on THIS offer (content coaching, group-based, course-supported)
+for 18 months minimum. No flip-flopping. No new shiny model. Same
+hill until it compounds. That single decision is worth more than
+any productivity system or sales script.
+
+Level 2 = $50k/mo cash, then $100k/mo, then convert income to
+equity. Let's go.
+
+------------------------------------------------------------
+PROMPTS TO MAKE THIS YOURS (answer in writing before publishing)
+------------------------------------------------------------
+
+- What was the SHINY MODEL last time you flip-flopped? What pulled
+  you off the high-ticket hill? Naming it makes it less likely to
+  pull you off again.
+
+- What does "no flip-flopping for 18 months" actually look like in
+  practice? What WOULD you say no to in May, June, July if a new
+  shiny opportunity appeared? Write 3 specific examples.
+
+- What's the burn rate breakdown? Where is the $200k+/yr going?
+  Rent, food, business costs, lifestyle, taxes. Specific numbers.
+  This is the structural fix to the net worth gap.
+
+- If Soowei's older brother gave YOU one piece of advice for the
+  next 12 months, knowing what he knows now, what would it be?
+  Write it in his voice.
+
+- What does month 18 of staying on this hill look like? Specific
+  numbers, specific business state, specific lifestyle change.
+  Make it visualizable.
+
+------------------------------------------------------------
+THE BOTTOM LINE
+------------------------------------------------------------
+
+You don't need to work harder. You need to STAY. On. One. Hill.
+For long enough.
+
+That's the whole game. The doc should reflect that — not a panic
+narrative about being behind, but a clear-eyed commitment to NOT
+get off this hill for 18 months no matter what shiny thing appears.
+
+Make THAT the decision. Then the rest is just execution.

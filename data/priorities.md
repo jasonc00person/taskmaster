@@ -10,7 +10,5 @@
 | | **Pipeline (all week):** Blake on outreach all 5 days — warm leads before launch week | | |
 | 02 | **Follow up — qualified prospect from Apr 24 call** | 💵 Sales | 🔴 Wed-Thu (Apr 29-30) |
 | | _Almost-close, very qualified. Lock him in pre-launch as a "case study close."_ | | |
-| 03 | **Oliver — full handoff to new dev by EOW** | 📦 Fulfillment | 🔴 by Fri May 1 |
-| | _Repo shared Apr 26. Route bugs to new dev — don't fix them yourself. Every fix you do delays the handoff._ | | |
-| 04 | **Weekly content ideas — all clients** | 📦 Fulfillment | 🔴 Sun night or Mon AM |
-| | _Recurring weekly fulfillment. Looms + content ideas to each client (Ayden, Gobb, Albert, Saharat, Patrick — Tyler paused). ~2 hrs, async model._ | | |
+| 03 | **Resubmit identity verification on Garna — release $2K Higgsfield payout** | 🏦 Finance | 🔴 ASAP |
+| | _$2K sitting locked. Re-upload ID, get it cleared, get paid._ | | |
