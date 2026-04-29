@@ -1,6 +1,6 @@
 # **TASKMASTER** ☑️
 
-_Updated: Monday, April 27, 2026_
+_Updated: Tuesday, April 28, 2026_
 
 ---
 
@@ -32,12 +32,12 @@ _Updated: Monday, April 27, 2026_
 ## **⚡ Activity (Apr 27 – May 3)**
 
 <pre>
-  Fulfillment  <span style="color:#FB923C">███</span>░░░░░░░░░░░░░░░░░░   3
-  Sales        <span style="color:#4ADE80">█</span>░░░░░░░░░░░░░░░░░░░░   1
+  Fulfillment  <span style="color:#FB923C">████</span>░░░░░░░░░░░░░░░░░   4
+  Sales        <span style="color:#4ADE80">██</span>░░░░░░░░░░░░░░░░░░░   2
+  Marketing    <span style="color:#A78BFA">█</span>░░░░░░░░░░░░░░░░░░░░   1
+  Build        <span style="color:#60A5FA">█</span>░░░░░░░░░░░░░░░░░░░░   1
   Trap         <span style="color:#EF4444">█</span>░░░░░░░░░░░░░░░░░░░░   1
-  Marketing    ░░░░░░░░░░░░░░░░░░░░░   0
   Finance      ░░░░░░░░░░░░░░░░░░░░░   0
-  Build        ░░░░░░░░░░░░░░░░░░░░░   0
 </pre>
 
 <details><summary>Prior week (Apr 20 – Apr 26)</summary>
@@ -82,6 +82,12 @@ _Updated: Monday, April 27, 2026_
 ---
 
 ## **📋 Daily Log**
+
+### Apr 28 (Tue) — GSD: 5/10
+- 🎬 **Ideated all launch content — ready to film tomorrow**
+- 💵 Sales call — no show
+- 📦 Low ticket office hours
+- ⚙️ **Booked call with Jonas Rorwick** (potential coach hire to help scale — current program feeling mid)
 
 ### Apr 27 (Mon)
 - 💵 **Blake sales training — fully onboarded** (got him up + running on outreach/sales stack, booked a call together)
