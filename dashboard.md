@@ -1,6 +1,6 @@
 # **TASKMASTER** ☑️
 
-_Updated: Sunday, May 3, 2026_
+_Updated: Monday, May 4, 2026_
 
 ---
 
@@ -8,6 +8,10 @@ _Updated: Sunday, May 3, 2026_
 
 | # | Task | Category | Deadline |
 |---|------|:--------:|:--------:|
+| 1 | Define onboarding + niche AI research process for new signups | 📦 FULFILLMENT | May 17 |
+| 2 | Package Plug n' Play viral AI content system (files + setup guide) | ⚙️ BUILD | May 17 |
+| 3 | Bundle AI automation templates + resources into Skool classroom | ⚙️ BUILD | May 17 |
+| 4 | Audit 2026 Content Creation course — list what needs re-recording | 🎬 MARKETING | May 17 |
 
 ---
 
@@ -18,16 +22,29 @@ _Updated: Sunday, May 3, 2026_
 
 ---
 
-## **⚡ Activity (Apr 27 – May 3)**
+## **⚡ Activity (May 4 – May 10)**
+
+<pre>
+  Build        <span style="color:#60A5FA">██</span>░░░░░░░░░░░░░░░░░░░   2
+  Sales        <span style="color:#4ADE80">█</span>░░░░░░░░░░░░░░░░░░░░   1
+  Fulfillment  ░░░░░░░░░░░░░░░░░░░░░   0
+  Marketing    ░░░░░░░░░░░░░░░░░░░░░   0
+  Finance      ░░░░░░░░░░░░░░░░░░░░░   0
+  Trap         ░░░░░░░░░░░░░░░░░░░░░   0
+</pre>
+
+<details><summary>Prior week (Apr 27 – May 3)</summary>
 
 <pre>
   Fulfillment  <span style="color:#FB923C">██████</span>░░░░░░░░░░░░░░░   6
-  Marketing    <span style="color:#A78BFA">██████</span>░░░░░░░░░░░░░░░   6
-  Trap         <span style="color:#EF4444">█████</span>░░░░░░░░░░░░░░░░   5
-  Finance      <span style="color:#FBBF24">███</span>░░░░░░░░░░░░░░░░░░   3
-  Sales        <span style="color:#4ADE80">██</span>░░░░░░░░░░░░░░░░░░░   2
+  Trap         <span style="color:#EF4444">██████</span>░░░░░░░░░░░░░░░   6
+  Marketing    <span style="color:#A78BFA">████</span>░░░░░░░░░░░░░░░░░   4
+  Sales        <span style="color:#4ADE80">████</span>░░░░░░░░░░░░░░░░░   4
+  Finance      <span style="color:#FBBF24">██</span>░░░░░░░░░░░░░░░░░░░   2
   Build        <span style="color:#60A5FA">█</span>░░░░░░░░░░░░░░░░░░░░   1
 </pre>
+
+</details>
 
 <details><summary>Prior week (Apr 20 – Apr 26)</summary>
 
@@ -55,26 +72,18 @@ _Updated: Sunday, May 3, 2026_
 
 </details>
 
-<details><summary>Prior week (Apr 6 – Apr 12)</summary>
-
-<pre>
-  Fulfillment  <span style="color:#FB923C">██████████████</span>░░░░░░░  14
-  Marketing    <span style="color:#A78BFA">██████</span>░░░░░░░░░░░░░░░   6
-  Sales        <span style="color:#4ADE80">███</span>░░░░░░░░░░░░░░░░░░   3
-  Trap         <span style="color:#EF4444">██</span>░░░░░░░░░░░░░░░░░░░   2
-  Finance      ░░░░░░░░░░░░░░░░░░░░░   0
-  Build        ░░░░░░░░░░░░░░░░░░░░░   0
-</pre>
-
-</details>
-
 ---
 
 ## **📋 Daily Log**
 
+### May 4 (Mon) — GSD: 9/10
+- ⚙️ **Blake role LOCKED — Growth Operator, 10% topline MRR comp, day-to-day mapped** (notes/blake-role.md is the official doc)
+- 💰 **Filmed, edited & shipped about-page VSL** (live on Skool about page — direct lever on 1.5%→3% conversion goal)
+- ⚙️ **Locked weekly group call schedule** (2x weekly Standard tier + 2x weekly Inner Circle = 4 calls/week — retention infra for both tiers)
+
 ### May 3 (Sun) — GSD: 9/10
-- 🎬 **New low-ticket offer LOCKED**
-- 🎬 **Skool about page rebuilt and LIVE**
+- ⚙️ **New low-ticket offer LOCKED**
+- 💰 **Skool about page rebuilt and LIVE**
 
 ### May 2 (Sat) — GSD: 0/10
 - 👤 Day with parents
@@ -95,16 +104,16 @@ _Updated: Sunday, May 3, 2026_
 - 🎬 Scheduled post for tomorrow
 - 🏦 Discover fraud charge resolved
 - 🏦 **Paid 2025 + 2026 Q1 taxes**
-- 🏦 **Garna ID verification resubmitted — $2K Higgsfield payout cleared** (funds landing soon)
+- 💰 **Garna ID verification resubmitted — $2K Higgsfield payout cleared** (funds landing soon)
 
 ### Apr 28 (Tue) — GSD: 5/10
 - 🎬 **Ideated all launch content — ready to film tomorrow**
-- 💵 Sales call — no show
+- 💰 Sales call — no show
 - 📦 Low ticket office hours
-- ⚙️ **Booked call with Jonas Rorwick** (potential coach hire to help scale — current program feeling mid)
+- ❌ **Booked call with Jonas Rorwick** (potential coach hire to help scale — current program feeling mid)
 
 ### Apr 27 (Mon) — GSD: 7/10
-- 💵 **Blake sales training — fully onboarded** (got him up + running on outreach/sales stack, booked a call together)
+- 💰 **Blake sales training — fully onboarded** (got him up + running on outreach/sales stack, booked a call together)
 - 📦 Group call
 - 📦 Ayden 1-1 (off-scope — skipped group call to ask about scaling a SaaS, wants to switch offers)
 - ❌ Fahim call
@@ -121,11 +130,11 @@ _Updated: Sunday, May 3, 2026_
 
 ### Apr 24 (Fri) — GSD: 7/10
 - 📦 **Launch material — SHIPPED**
-- 💵 **Sales call — qualified, no close** (follow-up mid next week)
+- 💰 **Sales call — qualified, no close** (follow-up mid next week)
 - 📦 **Patrick — video edits sent**
 
 ### Apr 23 (Thu)
-- 💵 **Hired Blake — first team hire** ($500/mo base + 10%, setter + closer)
+- 💰 **Hired Blake — first team hire** ($500/mo base + 10%, setter + closer)
 - 📦 **Oliver — ended engagement** (2-week handoff to new dev, no refund either way)
 - 📦 **Tyler — paused engagement** (mutual pause, no refund — dodged the refund bullet; likely effectively ended)
 
@@ -154,7 +163,7 @@ _Updated: Sunday, May 3, 2026_
 - 🎬 **Edited + posted IG reel**
 - ❌ Sales call no-show
 - 📦 Patrick 1-1
-- 💵 Sales call — just wanted to chop it up (no close)
+- 💰 Sales call — just wanted to chop it up (no close)
 - ❌ Sales call — tire kicker wanting free shit
 - 📦 Patrick — sent 9 scraped viral reel ideas to copy
 
@@ -163,7 +172,7 @@ _Updated: Sunday, May 3, 2026_
 - 📦 Group call
 - 📦 Tyler — content project fulfillment
 - 🎬 Filmed 2 IG reels
-- 💵 **DM outreach/setting — booked 2 sales calls**
+- 💰 **DM outreach/setting — booked 2 sales calls**
 
 ### Apr 15 (Wed) — GSD: 6/10
 - 🎬 **Filmed + posted IG reel**
@@ -172,14 +181,14 @@ _Updated: Sunday, May 3, 2026_
 - 🏦 **Filed 2025 taxes**
 - 📦 Oliver 1-1
 - 📦 Group call
-- 💵 **DM outreach blitz** (28 leads worked)
+- 💰 **DM outreach blitz** (28 leads worked)
 - 🎬 **Reposted Poppy viral video** (affiliate commissions)
 - ⚙️ **Built Content OS Claude system**
 - ⚙️ **Built portfolio manager Claude system** (investments)
 - ⚙️ **Fixed up Setter Bot Claude system**
 
 ### Apr 13 (Mon)
-- 💵 **Higgsfield — $2K collected**
+- 💰 **Higgsfield — $2K collected**
 - 📦 Gobb 1-1
 - 📦 Moises 1-1
 - 📦 Albert 1-1
@@ -196,7 +205,7 @@ _Updated: Sunday, May 3, 2026_
 - 👤 Recovery day (went out drinking night before, slept most of the day)
 
 ### Apr 10 (Fri) — GSD: 5/10
-- 💵 **Patrick — $2K collected**
+- 💰 **Patrick — $2K collected**
 - ❌ Group call — no one showed up (TRAP — validates need for 1-1→group transition)
 - 📦 Patrick 1-1
 - 🎬 **Higgsfield brand deal video — DONE** (filmed + edited, posting tomorrow AM, finishing YT edit)
@@ -207,7 +216,7 @@ _Updated: Sunday, May 3, 2026_
 - 📦 CA Inner Circle
 - 📦 Ayden 1-1
 - 🎬 Fahim — re-signed with editing agency to scale content output
-- 💵 Book A Call landing page — custom domain + new testimonial + video testimonial
+- 💰 Book A Call landing page — custom domain + new testimonial + video testimonial
 
 ### Apr 8 (Wed) — GSD: 6/10
 - 📦 Oliver onboarding call
@@ -215,7 +224,7 @@ _Updated: Sunday, May 3, 2026_
 - 📦 Tyler content system — built and delivered (due Thu morning, done night before)
 
 ### Apr 7 (Tue) — GSD: 8/10
-- 💵 **Oliver — CLOSED $6,000** (3x $2,000/mo)
+- 💰 **Oliver — CLOSED $6,000** (3x $2,000/mo)
 - 📦 Low ticket group call
 - 🎬 Higgsfield brand deal — worked on video
 
@@ -244,7 +253,7 @@ _Updated: Sunday, May 3, 2026_
 ### Apr 2 (Thu) — GSD: 6/10
 - 📦 **Tyler Pazner — Presented MVP** (implementation call)
 - 📦 CA Inner Circle
-- 💵 Cole Baker — Sales call (no close)
+- 💰 Cole Baker — Sales call (no close)
 - 📦 Patrick 1-1
 - 🏦 **Tax prep — prepped everything for 2025 filing** (~1hr)
 
@@ -255,10 +264,10 @@ _Updated: Sunday, May 3, 2026_
 ### Mar 31 (Tue) — GSD: 5/10
 - 📦 Office Hours
 - 📦 Moises Trinidad onboarding call (1 PM CT)
-- 💵 Waqas Qazi — Sales call (no close)
+- 💰 Waqas Qazi — Sales call (no close)
 
 ### Mar 30 (Mon) — GSD: 8/10
-- 💵 **Moises Trinidad — CLOSED $4,050** (3x $1,350/mo)
+- 💰 **Moises Trinidad — CLOSED $4,050** (3x $1,350/mo)
 - 📦 CA Inner Circle
 - 📦 Hoku — sent Loom + resolved Zernio account merge via support
 - 📦 gobb 1-1
@@ -275,14 +284,14 @@ _Updated: Sunday, May 3, 2026_
 - ⚙️ Built Taskmaster system (one-time investment — done, don't keep tweaking)
 
 ### Mar 27 (Fri) — GSD: 7/10
-- 💵 Alex Eubank call (delivered, cleared for pitch)
+- 💰 Alex Eubank call (delivered, cleared for pitch)
 - 📦 Alex Eubank — delivered course update + old modules
 - 📦 CA Inner Circle
 - ❌ Jakob no-show #2 (dead)
 
 ### Mar 26 (Thu) — GSD: 5/10
 - 📦 Tyler onboarding
-- 💵 Kason sales call
+- 💰 Kason sales call
 - ❌ Fahim Skool (him pitching me)
 - 📦 CA Inner Circle
 - ❌ Implementation Call (asked about scaling fulfillment — already knew the answer)
@@ -295,13 +304,13 @@ _Updated: Sunday, May 3, 2026_
 - ❌ Built dashboard to manufacture content
 
 ### Mar 24 (Tue) — GSD: 5/10
-- 💵 Locked in $2K Higgsfield brand deal
+- 💰 Locked in $2K Higgsfield brand deal
 - 📦 Office Hours (Gobb + Gonçalo content review)
 - 📦 Ayden 1-1 (sales process + content ideation)
 - ❌ Spent hours analyzing sales call transcripts in Claude (already knew the answer)
 
 ### Mar 23 (Mon) — GSD: 3/10
-- 💵 Will Habel sales call (no close)
+- 💰 Will Habel sales call (no close)
 - 📦 CA Inner Circle
 - 📦 gobb 1-1
 - 📦 Albert 1-1
@@ -312,45 +321,45 @@ _Updated: Sunday, May 3, 2026_
 **— Pre-tracking (calls only) —**
 
 ### Mar 19 (Thu) — GSD: 67%
-- 💵 Frederik/Jonas sales call (AI consulting)
-- 💵 Tyler Pazner sales call
+- 💰 Frederik/Jonas sales call (AI consulting)
+- 💰 Tyler Pazner sales call
 - 📦 Maximus support call
 
 ### Mar 17 (Mon) — GSD: 100%
-- 💵 Micah sales call
+- 💰 Micah sales call
 
 ### Mar 16 (Sun) — GSD: 100%
-- 💵 Koby sales call ($40k MRR agency)
-- 💵 Melvin Hagstrom sales call
+- 💰 Koby sales call ($40k MRR agency)
+- 💰 Melvin Hagstrom sales call
 
 ### Mar 13 (Thu) — GSD: 50%
-- 💵 Danielle Smith sales call
+- 💰 Danielle Smith sales call
 - 📦 Ayden follow-up
 
 ### Mar 12 (Wed) — GSD: 100%
-- 💵 Albert Wang sales call
-- 💵 Paul Burgess sales call (AI consulting)
+- 💰 Albert Wang sales call
+- 💰 Paul Burgess sales call (AI consulting)
 
 ### Mar 11 (Tue) — GSD: 0%
 - 📦 Gobb onboarding call
 
 ### Mar 10 (Mon) — GSD: 100%
-- 💵 Gobb CLOSED ($500+$500)
-- 💵 Saharat pitch delivered
+- 💰 Gobb CLOSED ($500+$500)
+- 💰 Saharat pitch delivered
 
 ### Mar 9 (Sun) — GSD: 100%
-- 💵 Anthony Chestnut sales call
-- 💵 Cristiano sales call
-- 💵 Gobb sales call
+- 💰 Anthony Chestnut sales call
+- 💰 Cristiano sales call
+- 💰 Gobb sales call
 
 ### Mar 6 (Thu) — GSD: 100%
-- 💵 CFong
-- 💵 Damien Fraser
-- 💵 Pablo
-- 💵 Pierre
-- 💵 Salim O — 5 market research calls
+- 💰 CFong
+- 💰 Damien Fraser
+- 💰 Pablo
+- 💰 Pierre
+- 💰 Salim O — 5 market research calls
 
 ### Mar 4 (Tue) — GSD: 100%
-- 💵 Brayden Harlow
-- 💵 Saharat
-- 💵 Victoria Clavero — 3 market research calls
+- 💰 Brayden Harlow
+- 💰 Saharat
+- 💰 Victoria Clavero — 3 market research calls

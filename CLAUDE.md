@@ -43,7 +43,7 @@ This is a **conversational system**. Jason talks to Claude, Claude updates the f
 
 Every task gets ONE tag. Four departments of the business, plus waste:
 
-- 💵 **SALES** — Closing, sales calls, follow-ups, pitching. This is what grows revenue.
+- 💰 **SALES** — Closing, sales calls, follow-ups, pitching. This is what grows revenue.
 - 🎬 **MARKETING** — Content creation, DMs, posting, audience growth. This fills the pipeline.
 - 🏦 **FINANCE** — Money decisions, expenses, hiring/firing, budgets. Keeps the business healthy.
 - 📦 **FULFILLMENT** — Delivering for paying members. Skool group calls, office hours, community engagement, member wins. Also: 1-1 high-ticket client calls and deliverables (existing roster only). **For Skool, this IS the retention motion — directly serves the $20K MRR goal.**
@@ -84,16 +84,20 @@ Every task gets ONE tag. Four departments of the business, plus waste:
    ```
    To update an existing day: rewrite the file with the updated record (small file, fine to rewrite).
 
-3. Run the render script:
+3. **If the completed task was on `data/priorities.md` (or `data/backlog.md`), remove it entirely.** Don't strikethrough, don't leave it. The daily log already records what got done — keeping it in priorities is just stale to-do clutter. Renumber the remaining rows so the table stays clean.
+
+4. Run the render script:
    ```bash
    python3 scripts/render.py
    ```
 
 That's it. The script handles activity charts, weekly counts, daily log formatting, the "Updated" date, and ordering. **Never hand-edit `dashboard.md` directly — it gets regenerated.**
 
+**This is a 4-step workflow, not 3. If you only did steps 1+2+4 and the task was on the priority list, you didn't finish — go back and do step 3.**
+
 ### Other Rules
 
-1. **When Jason dumps tasks for later**: Edit `data/priorities.md` or `data/backlog.md` directly. Then run `render.py`. **When a priority is completed, remove it entirely — don't strikethrough.** The daily log records what got done.
+1. **When Jason dumps tasks for later**: Edit `data/priorities.md` or `data/backlog.md` directly, then run `render.py`. (Removal-on-completion is handled in the workflow above — step 3.)
 
 2. **When Jason says "plan my day"**: Talk through the plan using `data/priorities.md` and `week-plan.md`. Make sure there's at least 1 SALES or MARKETING task on deck.
 

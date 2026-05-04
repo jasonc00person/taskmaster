@@ -157,13 +157,13 @@
 {"date":"2026-04-28","category":"MARKETING","title":"Ideated all launch content — ready to film tomorrow","emphasis":true}
 {"date":"2026-04-28","category":"SALES","title":"Sales call — no show"}
 {"date":"2026-04-28","category":"FULFILLMENT","title":"Low ticket office hours"}
-{"date":"2026-04-28","category":"BUILD","title":"Booked call with Jonas Rorwick","note":"potential coach hire to help scale — current program feeling mid","emphasis":true}
+{"date":"2026-04-28","category":"TRAP","title":"Booked call with Jonas Rorwick","note":"potential coach hire to help scale — current program feeling mid","emphasis":true}
 {"date":"2026-04-29","category":"MARKETING","title":"Posted video","emphasis":true}
 {"date":"2026-04-29","category":"MARKETING","title":"Filmed 2 videos, assigned to editors"}
 {"date":"2026-04-29","category":"MARKETING","title":"Scheduled post for tomorrow"}
 {"date":"2026-04-29","category":"FINANCE","title":"Discover fraud charge resolved"}
 {"date":"2026-04-29","category":"FINANCE","title":"Paid 2025 + 2026 Q1 taxes","emphasis":true}
-{"date":"2026-04-29","category":"FINANCE","title":"Garna ID verification resubmitted — $2K Higgsfield payout cleared","note":"funds landing soon","emphasis":true}
+{"date":"2026-04-29","category":"SALES","title":"Garna ID verification resubmitted — $2K Higgsfield payout cleared","note":"funds landing soon","emphasis":true}
 {"date":"2026-04-30","category":"TRAP","title":"Onboarding call with Jakub (Jonas's program)","note":"program turned out to be shit — moving in a different direction"}
 {"date":"2026-04-30","category":"TRAP","title":"Sales call — low quality prospect","note":"should have known never going to buy high ticket"}
 {"date":"2026-04-30","category":"TRAP","title":"Sales call — low quality prospect","note":"should have known never going to buy high ticket"}
@@ -171,5 +171,8 @@
 {"date":"2026-05-01","category":"TRAP","title":"Sales call — low quality prospect","note":"another trap call"}
 {"date":"2026-05-01","category":"FULFILLMENT","title":"Inner Circle coaching call"}
 {"date":"2026-05-02","category":"PERSONAL","title":"Day with parents"}
-{"date":"2026-05-03","category":"MARKETING","title":"New low-ticket offer LOCKED","emphasis":true}
-{"date":"2026-05-03","category":"MARKETING","title":"Skool about page rebuilt and LIVE","emphasis":true}
+{"date":"2026-05-03","category":"BUILD","title":"New low-ticket offer LOCKED","emphasis":true}
+{"date":"2026-05-03","category":"SALES","title":"Skool about page rebuilt and LIVE","emphasis":true}
+{"date":"2026-05-04","category":"BUILD","title":"Blake role LOCKED — Growth Operator, 10% topline MRR comp, day-to-day mapped","note":"notes/blake-role.md is the official doc","emphasis":true}
+{"date":"2026-05-04","category":"SALES","title":"Filmed, edited & shipped about-page VSL","note":"live on Skool about page — direct lever on 1.5%→3% conversion goal","emphasis":true}
+{"date":"2026-05-04","category":"BUILD","title":"Locked weekly group call schedule","note":"2x weekly Standard tier + 2x weekly Inner Circle = 4 calls/week — retention infra for both tiers","emphasis":true}

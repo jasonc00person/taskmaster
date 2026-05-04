@@ -16,7 +16,7 @@ DASHBOARD = ROOT / "dashboard.md"
 CATEGORY_EMOJI = {
     "FULFILLMENT": "📦",
     "MARKETING": "🎬",
-    "SALES": "💵",
+    "SALES": "💰",
     "FINANCE": "🏦",
     "BUILD": "⚙️",
     "TRAP": "❌",

@@ -12,7 +12,7 @@ DATA.mkdir(exist_ok=True)
 EMOJI_TO_CATEGORY = {
     "📦": "FULFILLMENT",
     "🎬": "MARKETING",
-    "💵": "SALES",
+    "💰": "SALES",
     "🏦": "FINANCE",
     "⚙️": "BUILD",
     "❌": "TRAP",
