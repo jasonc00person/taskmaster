@@ -1,6 +1,6 @@
 # **TASKMASTER** ☑️
 
-_Updated: Tuesday, April 28, 2026_
+_Updated: Sunday, May 3, 2026_
 
 ---
 
@@ -8,23 +8,12 @@ _Updated: Tuesday, April 28, 2026_
 
 | # | Task | Category | Deadline |
 |---|------|:--------:|:--------:|
-| 01 | **LAUNCH PREP — all assets ready by Sun May 3** | 🎬 Marketing | 🔴 by Sun May 3 |
-| | _This week = build. Next week = post + run sequence + collect cash. Nothing half-baked going into launch week._ | | |
-| | **Locks (Mon):** Offer locked (hook, promise, price, urgency) · Blake briefed on outreach (script, list, daily quota) | | |
-| | **Content (first half):** Albert testimonial filmed Mon-Tue · HERO FILM DAY Wed Apr 29 · Edit + assemble Thu-Fri · IG story sequence drafted Fri | | |
-| | **Product (second half):** Onboarding flow ready · Program material ship-ready · Sat = polish + Albert clips integrated | | |
-| | **Pipeline (all week):** Blake on outreach all 5 days — warm leads before launch week | | |
-| 02 | **Follow up — qualified prospect from Apr 24 call** | 💵 Sales | 🔴 Wed-Thu (Apr 29-30) |
-| | _Almost-close, very qualified. Lock him in pre-launch as a "case study close."_ | | |
-| 03 | **Resubmit identity verification on Garna — release $2K Higgsfield payout** | 🏦 Finance | 🔴 ASAP |
-| | _$2K sitting locked. Re-upload ID, get it cleared, get paid._ | | |
 
 ---
 
 ## **📥 Backlog**
 
 - 🏦 **Moises dispute on Whop** — he just submitted one, monitor + respond to win it. Also find a Whop rep to connect with so account stays healthy.
-- 🏦 **Call Discover (1-800-216-1374)** — dispute Base44 fraud charge, request card reissue with new number
 - 👤 Get chair back from Miami — call delivery place to pick up from Kayna
 
 ---
@@ -32,12 +21,12 @@ _Updated: Tuesday, April 28, 2026_
 ## **⚡ Activity (Apr 27 – May 3)**
 
 <pre>
-  Fulfillment  <span style="color:#FB923C">████</span>░░░░░░░░░░░░░░░░░   4
+  Fulfillment  <span style="color:#FB923C">██████</span>░░░░░░░░░░░░░░░   6
+  Marketing    <span style="color:#A78BFA">██████</span>░░░░░░░░░░░░░░░   6
+  Trap         <span style="color:#EF4444">█████</span>░░░░░░░░░░░░░░░░   5
+  Finance      <span style="color:#FBBF24">███</span>░░░░░░░░░░░░░░░░░░   3
   Sales        <span style="color:#4ADE80">██</span>░░░░░░░░░░░░░░░░░░░   2
-  Marketing    <span style="color:#A78BFA">█</span>░░░░░░░░░░░░░░░░░░░░   1
   Build        <span style="color:#60A5FA">█</span>░░░░░░░░░░░░░░░░░░░░   1
-  Trap         <span style="color:#EF4444">█</span>░░░░░░░░░░░░░░░░░░░░   1
-  Finance      ░░░░░░░░░░░░░░░░░░░░░   0
 </pre>
 
 <details><summary>Prior week (Apr 20 – Apr 26)</summary>
@@ -83,13 +72,38 @@ _Updated: Tuesday, April 28, 2026_
 
 ## **📋 Daily Log**
 
+### May 3 (Sun) — GSD: 9/10
+- 🎬 **New low-ticket offer LOCKED**
+- 🎬 **Skool about page rebuilt and LIVE**
+
+### May 2 (Sat) — GSD: 0/10
+- 👤 Day with parents
+
+### May 1 (Fri) — GSD: 3/10
+- ❌ Sales call — low quality prospect (another trap call)
+- 📦 Inner Circle coaching call
+
+### Apr 30 (Thu) — GSD: 2/10
+- ❌ Onboarding call with Jakub (Jonas's program) (program turned out to be shit — moving in a different direction)
+- ❌ Sales call — low quality prospect (should have known never going to buy high ticket)
+- ❌ Sales call — low quality prospect (should have known never going to buy high ticket)
+- 📦 Inner Circle coaching call (not bad)
+
+### Apr 29 (Wed) — GSD: 8/10
+- 🎬 **Posted video**
+- 🎬 Filmed 2 videos, assigned to editors
+- 🎬 Scheduled post for tomorrow
+- 🏦 Discover fraud charge resolved
+- 🏦 **Paid 2025 + 2026 Q1 taxes**
+- 🏦 **Garna ID verification resubmitted — $2K Higgsfield payout cleared** (funds landing soon)
+
 ### Apr 28 (Tue) — GSD: 5/10
 - 🎬 **Ideated all launch content — ready to film tomorrow**
 - 💵 Sales call — no show
 - 📦 Low ticket office hours
 - ⚙️ **Booked call with Jonas Rorwick** (potential coach hire to help scale — current program feeling mid)
 
-### Apr 27 (Mon)
+### Apr 27 (Mon) — GSD: 7/10
 - 💵 **Blake sales training — fully onboarded** (got him up + running on outreach/sales stack, booked a call together)
 - 📦 Group call
 - 📦 Ayden 1-1 (off-scope — skipped group call to ask about scaling a SaaS, wants to switch offers)

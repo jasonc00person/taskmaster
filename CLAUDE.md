@@ -46,21 +46,21 @@ Every task gets ONE tag. Four departments of the business, plus waste:
 - 💵 **SALES** — Closing, sales calls, follow-ups, pitching. This is what grows revenue.
 - 🎬 **MARKETING** — Content creation, DMs, posting, audience growth. This fills the pipeline.
 - 🏦 **FINANCE** — Money decisions, expenses, hiring/firing, budgets. Keeps the business healthy.
-- 📦 **FULFILLMENT** — Client 1-1s, group calls, delivering work, building client deliverables. Necessary but not growth.
+- 📦 **FULFILLMENT** — Delivering for paying members. Skool group calls, office hours, community engagement, member wins. Also: 1-1 high-ticket client calls and deliverables (existing roster only). **For Skool, this IS the retention motion — directly serves the $20K MRR goal.**
 - ⚙️ **BUILD** — Internal systems, automations, AI workflows, tooling. For YOUR business, not client deliverables.
 - ❌ **TRAP** — If it doesn't fit the five categories above, it's a trap. Period.
 
 ## GSD Score
 
 - **GSD Score** is a 1-10 grade, not a formula. Claude scores it based on judgment.
-- **What it measures:** Are we actually moving the needle, or spending time on bullshit?
+- **What it measures:** Are we actually moving the needle on **$20K Skool MRR**, or spending time on bullshit?
 - **How to score:**
-  - Did Jason do the **highest leverage** tasks, not just busy ones?
-  - Did he **close** anything or just have conversations?
-  - Did he **ship** something or just work on it?
-  - Did he avoid traps or fall into them?
-  - Did he create content or let it slide?
-- **Scale:** 10 = closed deals, shipped deliverables, posted content, zero traps. 1 = all maintenance, no growth, fell into traps all week.
+  - Did Jason **ship content** (the funnel input)?
+  - Did he move a **funnel metric** — new signups, conversion rate, retention, ARPU?
+  - Did he **deliver hard** for existing Skool members (retention work)?
+  - Did he avoid traps — especially the high-ticket-mentor / low-quality-sales-call pull?
+  - Did he hold the line on the low-ticket motion?
+- **Scale:** 10 = shipped content, moved a funnel metric, members got real value, zero traps. 1 = traps + busywork + no funnel movement.
 - **Daily scores** should reflect that day's impact. **Weekly scores** should reflect the whole picture.
 
 ## Rules for Claude
@@ -109,39 +109,65 @@ That's it. The script handles activity charts, weekly counts, daily log formatti
 
 8. **Keep it simple**: Don't over-organize. Don't add metadata nobody reads. Don't create files that won't get used.
 
-## April 2026 — The $40K Month
+## The Mission — $20K Skool MRR
 
-**Target: $40,000 cash collected in April.**
+**Mission-critical target: $20,000/month recurring revenue from Creator Accelerator (Skool).**
 
-Revenue baseline (auto-pilot):
-- $8,900 Skool low-ticket MRR
-- $1,500 Poppy affiliate payouts
-- $1,000 payment plans (Saharat — Moises churned, renewal due Apr 20 never came)
-- $2,000 Patrick collection (Apr 8-9)
-- $2,000 Higgsfield brand deal (overdue, filming Apr 5)
-- **Total baseline: ~$15,400**
+This replaces the prior "$40K high-ticket month" framing entirely. Jason walked away from high-ticket as the primary growth lever on 2026-05-03. The new motion is sustainable low-ticket scale.
 
-**Gap: ~$24,600 in new high-ticket sales needed.**
-- At $4K PIF: 6 closes. But not everyone PIFs.
-- Realistic: **8-10 new closes this month** (~2-3/week).
-- Requires **5-6 sales calls/week** at 40-50% close rate.
-- Content + outreach are the pipeline. No content = no calls = no $40K.
+### Current State (as of 2026-05-03)
 
-**Current clients (6):** Ayden, Gobb, Albert, Saharat, Patrick, Tyler
-- Monday is a wall of fulfillment (6 calls). Accept it.
-- Wednesdays are sacred content days. Nothing else goes there.
-- Sleep directly impacts output — track sleep scores daily.
+- **MRR: $7,410** · **173 members**
+- **Pricing:** Standard $75/mo or $500/yr · Premium $4,000/yr (group calls + program access) · VIP $8K/yr (off)
+- **Engagement: 71% · Retention: 66%**
+- **Last 30d:** 1,186 visitors → 18 signups (1.5% conv) → $1,275 new MRR (~$71/signup)
+- **Signup channels (last 30d):** YouTube 50% · Direct 22% · Instagram 11% · Skool network 11% · Email 6%
 
-**Every task gets judged against this $40K target.** If it doesn't close deals, fill pipeline, retain paying clients, or handle a legal requirement — it's TRAP.
+### The Math
+
+- **Gap: $12,590 MRR.** ~168 net new $75/mo subs (or ~315 net new at blended monthly+annual ARPU).
+- **At current pace** ($1,275 new MRR/mo, ignoring churn): ~10 months. With realistic churn at 66% retention: longer.
+- **To hit $20K within 6 months:** roughly **2x new-MRR pace AND hold/improve retention**.
+
+### The Four Levers (everything important serves one of these)
+
+1. **GROW MRR** — new signups via content (especially YouTube, the proven 50% channel), traffic, paid acquisition
+2. **HOLD MRR** — retain existing members via delivery, engagement, community quality (the 66% retention is the leak)
+3. **LIFT ARPU** — push Standard → Premium ($4K/yr tier), surgical upsells
+4. **COMPOUND THE FUNNEL** — build/improve the systems that do 1-3 (YouTube engine, content pipeline, automations, conversion improvements on the Skool sales page)
+
+### Other Revenue (supplemental, not the focus)
+
+- Poppy affiliate payouts (~$1.5K/mo) — passive
+- Brand deals (Higgsfield-style, sporadic) — passive opportunistic
+- 6 existing high-ticket clients (Ayden, Gobb, Albert, Saharat, Patrick, Tyler) — finish out engagements; not actively replacing
+
+### Open Questions (need decisions)
+
+- **Blake** — hired as setter/closer for high-ticket. Re-point at Skool / affiliate work, or pause?
+- **Inner Circle calls** — keep, modify, retire? They feed Premium tier value; possibly load-bearing.
+- **6 high-ticket clients** — finish out and don't replace, or actively transition them into Skool tiers?
+- **Wednesday content day** — still sacred? (Yes by default — content is the funnel input.)
 
 ## The Anti-Busywork Check
 
-Before starting any task, it must pass this test:
-1. Will this directly lead to cash collected this month?
-2. Will this fill the pipeline with sales calls?
-3. Will this retain a paying client or get them a win?
-4. Is this legally/operationally required?
+Before starting any task, it must pass at least one of:
+
+1. **Grow MRR** — bring in new Skool signups
+2. **Hold MRR** — retain existing members (delivery, engagement, community quality)
+3. **Lift ARPU** — push Standard → Premium
+4. **Compound the funnel** — build the system that does 1-3
+5. Legally/operationally required (taxes, contracts, payouts)
 
 If none of the above → **it's TRAP. Cut it. Don't even put it on the backlog.**
 
-Claude must be aggressive about calling TRAP. Organizing files, tweaking systems, planning without executing, "research" — all TRAP unless it directly serves the $40K goal. The only things that matter right now: **closing, content, outreach, and keeping clients winning.**
+### Common Traps (call these out aggressively)
+
+- **Low-quality sales calls** — the "should have known they'd never buy" pattern. The qualification filter has to be tight. If the call doesn't have a clear path to MRR (Skool signup, Premium upsell, or a real high-ticket fit from existing pipeline), it's TRAP.
+- **Mentor-program churn** — joining the next high-ticket guru program. Jason already concluded the space is mostly overcharging. Stop buying programs.
+- **High-ticket outreach for new prospects** — that motion is paused. Don't reflexively suggest it.
+- **System-tweaking without funnel impact** — organizing files, polishing docs, tooling that doesn't compound.
+- **"Research" without execution.**
+- **Generic content not aimed at the funnel.**
+
+**The only things that matter right now: content that grows YouTube/IG, conversion improvements on the Skool page, retention/delivery work inside the community, and surgical Premium upsells.**

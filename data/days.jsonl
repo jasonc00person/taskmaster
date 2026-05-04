@@ -44,3 +44,9 @@
 {"date": "2026-04-25", "dow": "Sat", "gsd": 1}
 {"date": "2026-04-26", "dow": "Sun"}
 {"date":"2026-04-28","dow":"Tue","gsd":5}
+{"date":"2026-04-29","dow":"Wed","gsd":8}
+{"date":"2026-04-30","dow":"Thu","gsd":2}
+{"date":"2026-05-01","dow":"Fri","gsd":3}
+{"date":"2026-05-02","dow":"Sat","gsd":0,"type":"REST"}
+{"date":"2026-04-27","dow":"Mon","gsd":7}
+{"date":"2026-05-03","dow":"Sun","gsd":9}
